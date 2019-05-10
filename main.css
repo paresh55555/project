@@ -1,0 +1,63 @@
+/*global css*/
+.center{
+    text-align: center;
+}
+.red-for{
+    background-color: #ffe9e9;
+}
+.in-br {
+    background-color: #d657009c;
+}
+.btn-success{
+    font-size: 20px;
+    padding: 2px 14px 3px;
+}
+.success-msg {
+    color: #1b9b70;
+}
+.war-msg{
+    color: #e75f34;
+}
+.fa-surprise{
+    font-size: 64px;
+    background-color: #FFEB3B;
+    border-radius: 33px
+}
+.fa-smile{
+    font-size: 64px;
+    background-color: #FFEB3B;
+    border-radius: 33px
+}
+.clr-class{
+    height: 120px;
+    width: 22em;
+    border: 1px solid black;
+}
+.table-clr{
+    background-color: #c7d6ff;
+}
+.border-width{
+    border: 1px solid;
+    border-radius: 15px;
+}
+.btn-primary{
+    margin: 0px 5px;
+}
+.btn-danger{
+    margin: 0px 6px;
+}
+.btn-info{
+    margin: 0px 6px;
+}
+.breadcrumb{
+    font-size: 2em;
+}
+.drp-width{
+    width: 280%;
+}
+.add-with{
+    margin-left: 45px;
+}
+.none{
+    display: none;
+}
